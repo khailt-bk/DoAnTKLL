@@ -42,10 +42,11 @@ def sobel_edge_detection(image_path, output, blur_ksize, sobel_ksize, skipping_t
 
 
 if __name__ == "__main__":
-    image_path = 'image_1.jpg'
-    output = 'image_sobel.jpg'
+    image_path = 'Image/image_2.jpg'
+    # image_path = 'Image/Test2.png'
+    output = 'Image/image_sobel.jpg'
     blur_ksize = 7
-    sobel_ksize = 1
+    sobel_ksize = 3
     skipping_threshold = 30
     sobel_edge_detection(image_path = image_path, blur_ksize=blur_ksize, output = output,
                                sobel_ksize=sobel_ksize, skipping_threshold=skipping_threshold)
