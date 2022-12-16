@@ -1,0 +1,12 @@
+cmath:184:3:constexpr float std::cos(float)	16	static
+cmath:425:3:constexpr float std::sin(float)	16	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+HoughLine.cpp:15:6:void HoughTransform(int, int, int (*)[200], int (*)[449])	56	static
+HoughLine.cpp:33:6:void Return_Line(int, int, int (*)[449], int (*)[200], int (*)[200])	56	static
+HoughLine.cpp:53:6:void Read_File()	280	static
+HoughLine.cpp:64:6:void Vote_Table()	16	static
+HoughLine.cpp:72:6:void Line_Output()	16	static
+HoughLine.cpp:80:6:void Write_File()	272	static
+HoughLine.cpp:91:2:void __static_initialization_and_destruction_0(int, int)	16	static
+HoughLine.cpp:91:2:cpp)	8	static
+HoughLine.cpp:91:2:cpp)	8	static

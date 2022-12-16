@@ -1,0 +1,4 @@
+HoughLine.cpp:15:6:void HoughTransform(int, int, int (*)[200], int (*)[449])	80	static
+HoughLine.cpp:33:6:void Return_Line(int, int, int (*)[449], int (*)[200], int (*)[200])	88	static
+HoughLine.cpp:440:2:cpp)	0	static
+HoughLine.cpp:440:2:cpp)	0	static

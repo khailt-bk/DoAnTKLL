@@ -1,0 +1,7 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+main.cpp:66:5:int main()	16	static
+main.cpp:114:6:void SystemClock_Config()	120	static
+main.cpp:165:6:void Error_Handler()	4	static,ignoring_inline_asm
+main.cpp:174:1:void __static_initialization_and_destruction_0(int, int)	16	static
+main.cpp:174:1:cpp)	8	static
+main.cpp:174:1:cpp)	8	static
