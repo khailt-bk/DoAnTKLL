@@ -1,0 +1,4 @@
+Line_Dection.c:63:6:Create_LineMatrix	16	static
+Line_Dection.c:71:6:Create_VoteTable	16	static
+Line_Dection.c:79:6:HoughTransform	48	static
+Line_Dection.c:98:6:Get_ImageLine	48	static
